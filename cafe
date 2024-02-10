@@ -4,7 +4,6 @@
 <title>page1</title>
 <link href="style.css" type="text/css" rel="stylesheet">
 </head>
-
     <body>
         <header>
                 <img src="https://i.postimg.cc/dtgpw6jm/Group-4-1.png"/>     
@@ -64,7 +63,7 @@
             <td>Мокко с белым шоколадом</td>
             <td>170</td>
             <td>молоко,кофе,белый шоколад,палочка корицы</td>
-            <td>Каждый поедельник до 12-00 скидка 10%</td>
+            <td>Каждый понедельник до 12-00 скидка 10%</td>
         </tr>
         <tr>
             <td>Кофе с медом, ванилью и солью</td>
@@ -119,3 +118,4 @@
     </footer>
     </body>
 </html>
+
